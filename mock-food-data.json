@@ -48,9 +48,9 @@
     ],
     "allergens": ["CELERY", "SULFITES", "NUTS"],
     "images": [
-      "./food/solomillo-braseado-higos/solomillo-braseado-higos.webp",
-      "./food/solomillo-braseado-higos/solomillo-braseado-higos-detalle.webp",
-      "./food/solomillo-braseado-higos/solomillo-braseado-higos.webp-cenital"
+      "https://discordante.github.io/mockFoodData/food/solomillo-braseado-higos/solomillo-braseado-higos.webp",
+      "https://discordante.github.io/mockFoodData/food/solomillo-braseado-higos/solomillo-braseado-higos-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/solomillo-braseado-higos/solomillo-braseado-higos-cenital.webp"
     ],
     "tags": ["Balanced"],
     "foodGroup": "meat"
@@ -112,9 +112,9 @@
       "DAIRY"
     ],
     "images": [
-      "public/food/salmon-cava-sauce/image1.jpg",
-      "public/food/salmon-cava-sauce/image2.jpg",
-      "public/food/salmon-cava-sauce/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/salmon-cava/salmon-cava.webp",
+      "https://discordante.github.io/mockFoodData/food/salmon-cava/salmon-cava-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/salmon-cava/salmon-cava-cenital.webp"
     ],
     "tags": ["Balanced"],
     "foodGroup": "seafood"
@@ -166,9 +166,9 @@
     ],
     "allergens": ["CELERY"],
     "images": [
-      "public/food/rice-pork-ribs-mushrooms/image1.jpg",
-      "public/food/rice-pork-ribs-mushrooms/image2.jpg",
-      "public/food/rice-pork-ribs-mushrooms/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/arroz-costilla-setas/arroz-costilla-setas.webp",
+      "https://discordante.github.io/mockFoodData/food/arroz-costilla-setas/arroz-costilla-setas-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/arroz-costilla-setas/arroz-costilla-setas-cenital.webp"
     ],
     "tags": ["Hearty"],
     "foodGroup": "meat"
@@ -217,9 +217,9 @@
     ],
     "allergens": ["GLUTEN", "SULFITES", "CELERY", "DAIRY"],
     "images": [
-      "public/food/bolognese-lasagna/image1.jpg",
-      "public/food/bolognese-lasagna/image2.jpg",
-      "public/food/bolognese-lasagna/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/lasagna-bolognesa/lasagna-bolognesa.webp",
+      "https://discordante.github.io/mockFoodData/food/lasagna-bolognesa/lasagna-bolognesa-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/lasagna-bolognesa/lasagna-bolognesa-cenital.webp"
     ],
     "tags": ["Comfort Food"],
     "foodGroup": "pasta"
@@ -269,9 +269,9 @@
     ],
     "allergens": ["DAIRY", "CELERY", "MUSTARD"],
     "images": [
-      "public/food/tandoori-chicken-saffron-rice-dates/image1.jpg",
-      "public/food/tandoori-chicken-saffron-rice-dates/image2.jpg",
-      "public/food/tandoori-chicken-saffron-rice-dates/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/pollo-tandori/pollo-tandori.webp",
+      "https://discordante.github.io/mockFoodData/food/pollo-tandori/pollo-tandori-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/pollo-tandori/pollo-tandori-cenital.webp"
     ],
     "tags": ["Flavorful"],
     "foodGroup": "poultry"
@@ -318,9 +318,9 @@
     ],
     "allergens": ["FISH", "CRUSTACEANS", "MOLLUSCS", "CELERY"],
     "images": [
-      "public/food/cod-vizcaina-sauce/image1.jpg",
-      "public/food/cod-vizcaina-sauce/image2.jpg",
-      "public/food/cod-vizcaina-sauce/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/bacalao-vizcaina-guisantes-patata/bacalao-vizcaina-guisantes-patata.webp",
+      "https://discordante.github.io/mockFoodData/food/bacalao-vizcaina-guisantes-patata/bacalao-vizcaina-guisantes-patata-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/bacalao-vizcaina-guisantes-patata/bacalao-vizcaina-guisantes-patata-cenital.webp"
     ],
     "tags": ["Balanced"],
     "foodGroup": "seafood"
@@ -370,9 +370,9 @@
     ],
     "allergens": ["CELERY", "DAIRY", "MUSTARD", "SULFITES", "FISH"],
     "images": [
-      "public/food/chicken-swedish-sauce/image1.jpg",
-      "public/food/chicken-swedish-sauce/image2.jpg",
-      "public/food/chicken-swedish-sauce/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/pollo-salsa-sueca/pollo-salsa-sueca.webp",
+      "https://discordante.github.io/mockFoodData/food/pollo-salsa-sueca/pollo-salsa-sueca-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/pollo-salsa-sueca/pollo-salsa-sueca-cenital.webp"
     ],
     "tags": ["Creamy", "Comfort Food"],
     "foodGroup": "poultry"
@@ -423,9 +423,7 @@
     ],
     "allergens": ["DAIRY", "CELERY"],
     "images": [
-      "public/food/turkey-mushroom-tarragon-sauce/image1.jpg",
-      "public/food/turkey-mushroom-tarragon-sauce/image2.jpg",
-      "public/food/turkey-mushroom-tarragon-sauce/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/pollo-salsa-setas-estragon/pollo-salsa-setas-estragon.webp"
     ],
     "tags": ["Balanced"],
     "foodGroup": "poultry"
@@ -477,9 +475,9 @@
     ],
     "allergens": ["MOLLUSC", "FISH", "CRUSTACEANS", "CELERY", "SOY"],
     "images": [
-      "public/food/chickpeas-squid-sweet-potato/image1.jpg",
-      "public/food/chickpeas-squid-sweet-potato/image2.jpg",
-      "public/food/chickpeas-squid-sweet-potato/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/garbanzos-calamar/garbanzos-calamar.webp",
+      "https://discordante.github.io/mockFoodData/food/garbanzos-calamar/garbanzos-calamar-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/garbanzos-calamar/garbanzos-calamar-cenital.webp"
     ],
     "tags": ["Novelty"],
     "foodGroup": "seafood"
@@ -541,9 +539,9 @@
       "SULFITES"
     ],
     "images": [
-      "public/food/tagliatelle-spinach-shrimp-sauce/image1.jpg",
-      "public/food/tagliatelle-spinach-shrimp-sauce/image2.jpg",
-      "public/food/tagliatelle-spinach-shrimp-sauce/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/tallarines-espinaca-gamba/tallarines-espinaca-gamba.webp",
+      "https://discordante.github.io/mockFoodData/food/tallarines-espinaca-gamba/tallarines-espinaca-gamba-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/tallarines-espinaca-gamba/tallarines-espinaca-gamba-cenital.webp"
     ],
     "tags": ["Gourmet"],
     "foodGroup": "pasta"
@@ -600,9 +598,9 @@
     ],
     "allergens": ["SOY", "CELERY", "SULFITES"],
     "images": [
-      "public/food/vegetable-bourguignon-rice/image1.jpg",
-      "public/food/vegetable-bourguignon-rice/image2.jpg",
-      "public/food/vegetable-bourguignon-rice/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/bourguignon/bourguignon.webp",
+      "https://discordante.github.io/mockFoodData/food/bourguignon/bourguignon-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/bourguignon/bourguignon-cenital.webp"
     ],
     "tags": ["Vegan"],
     "foodGroup": "vegan"
@@ -653,9 +651,9 @@
     ],
     "allergens": ["CELERY"],
     "images": [
-      "public/food/tomato-soup-red-beans-sweet-potato/image1.jpg",
-      "public/food/tomato-soup-red-beans-sweet-potato/image2.jpg",
-      "public/food/tomato-soup-red-beans-sweet-potato/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/sopa-tomate-boniato-alubia/sopa-tomate-boniato-alubia.webp",
+      "https://discordante.github.io/mockFoodData/food/sopa-tomate-boniato-alubia/sopa-tomate-boniato-alubia-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/sopa-tomate-boniato-alubia/sopa-tomate-boniato-alubia-cenital.webp"
     ],
     "tags": ["Hearty"],
     "foodGroup": "soup"
@@ -709,9 +707,9 @@
     ],
     "allergens": ["SOY", "GLUTEN", "PEANUT"],
     "images": [
-      "public/food/tofu-vegetable-pad-thai/image1.jpg",
-      "public/food/tofu-vegetable-pad-thai/image2.jpg",
-      "public/food/tofu-vegetable-pad-thai/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/pad-thai-tofu/pad-thai-tofu.webp",
+      "https://discordante.github.io/mockFoodData/food/pad-thai-tofu/pad-thai-tofu-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/pad-thai-tofu/pad-thai-tofu-cenital.webp"
     ],
     "tags": ["Vibrant"],
     "foodGroup": "noodles"
@@ -763,9 +761,9 @@
     ],
     "allergens": ["SOY"],
     "images": [
-      "public/food/eggplant-parmesan/image1.jpg",
-      "public/food/eggplant-parmesan/image2.jpg",
-      "public/food/eggplant-parmesan/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/berenjena-parmesana/berenjena-parmesana.webp",
+      "https://discordante.github.io/mockFoodData/food/berenjena-parmesana/berenjena-parmesana-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/berenjena-parmesana/berenjena-parmesana-cenital.webp"
     ],
     "tags": ["Vegan"],
     "foodGroup": "vegetarian"
@@ -818,9 +816,9 @@
     ],
     "allergens": ["DAIRY", "EGG", "GLUTEN", "TREE NUTS"],
     "images": [
-      "public/food/cheesecake/image1.jpg",
-      "public/food/cheesecake/image2.jpg",
-      "public/food/cheesecake/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/tarta-queso/tarta-queso.webp",
+      "https://discordante.github.io/mockFoodData/food/tarta-queso/tarta-queso-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/tarta-queso/tarta-queso-cenital.webp"
     ],
     "tags": ["Dessert"],
     "foodGroup": "desserts"
@@ -870,9 +868,9 @@
     ],
     "allergens": ["TREE NUTS"],
     "images": [
-      "public/food/coconut-milk-rice-pudding-pistachios/image1.jpg",
-      "public/food/coconut-milk-rice-pudding-pistachios/image2.jpg",
-      "public/food/coconut-milk-rice-pudding-pistachios/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/arroz-leche/arroz-leche.webp",
+      "https://discordante.github.io/mockFoodData/food/arroz-leche/arroz-leche-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/arroz-leche/arroz-leche-cenital.webp"
     ],
     "tags": ["Dessert"],
     "foodGroup": "desserts"
@@ -920,9 +918,9 @@
     ],
     "allergens": ["EGG", "DAIRY", "GLUTEN"],
     "images": [
-      "public/food/chocolate-raspberry-brownie/image1.jpg",
-      "public/food/chocolate-raspberry-brownie/image2.jpg",
-      "public/food/chocolate-raspberry-brownie/image3.jpg"
+      "https://discordante.github.io/mockFoodData/food/brownie-chocolate-frutos-rojos/brownie-chocolate-frutos-rojos.webp",
+      "https://discordante.github.io/mockFoodData/food/brownie-chocolate-frutos-rojos/brownie-chocolate-frutos-rojos-detalle.webp",
+      "https://discordante.github.io/mockFoodData/food/brownie-chocolate-frutos-rojos/brownie-chocolate-frutos-rojos-cenital.webp"
     ],
     "tags": ["Dessert"],
     "foodGroup": "desserts"
